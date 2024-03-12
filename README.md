@@ -14,4 +14,4 @@ We obtained 4 different structure of CaM from MD simulations. Each structure bel
 - To stimulate apo form of CaM, we removed calcium ions from the structure.(Now we have holo and apo forms of CaM)
 - To stimulate different environmental conditions, we changed ionic strenght(IS) of the systems.(Now we have two different environmental conditions: lLow IS, Physiological)
 
-In this repository, pmf files and metadynamics graphics are belong to Low IS Holo CaM.
+In this repository, the pmf files and metadynamics graphics belong to Low IS and Physiological Holo CaM.
